@@ -1,0 +1,67 @@
+
+body{
+	background-color: #000;
+	
+}
+.modalheader{
+	text-align: center;
+
+}
+.personMessageHead{
+	text-align: center;
+	font-size: 30px;
+}
+
+
+.div1{
+	height: 700px;
+	/*background-color: red;*/
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.div3{
+	margin-left: 35%;
+	margin-padding: 20px;
+	width: 40%;
+	/* background-color:yellow; */
+}
+
+.formm{
+	padding-top: 20px;
+}
+.formm input{
+	width: 300px;	
+}
+
+.sex{
+	width: 300px;
+}
+
+.form-group{
+	margin: 10px auto;
+	height: 30px;
+}
+
+.form-horizontal .control-label{
+	text-align: center;
+	width: 120px;
+}
+.address{
+	padding-bottom: 20px;
+}
+
+#confirm label{
+	width: 100px;
+}
+#confirm{
+	width: 200px;
+	padding-left: 150px;
+		
+}
+#confirm input{
+	text-align:center;
+	width: 200px;
+	
+}
+

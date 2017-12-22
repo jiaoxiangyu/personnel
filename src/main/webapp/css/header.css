@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+
+.logo{
+	
+	font-family: "黑体";
+	font-weight: bolder;
+	font-size: 28px;
+}
+
+.cur{ 
+	background:#E7E7E7;
+	font-weight:bold;
+} 
+
+.headmag{
+	height: 20px;
+	width: 20x;
+}

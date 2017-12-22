@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.foot{
+	position:absolute;
+	padding-top:20px;
+	text-align: center;
+	background-color:#F8F8F8;
+	height: 120px; 
+	width: 100%;
+}

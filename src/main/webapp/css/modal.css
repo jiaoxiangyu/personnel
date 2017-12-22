@@ -1,0 +1,79 @@
+
+
+.container-width{
+
+	max-width: 400px;
+}
+
+.modalContent{
+	width: 70%;
+	 margin-top: 200px;
+	 margin-left: 18%;
+	 margin-right: 20%;
+}
+
+.fileinput{
+	height:40px;
+	width:300px;
+	border:1px solid;
+	border-radius: 5px;
+}
+
+
+.fromgroup{
+	height: 35px;
+	width: 100%;
+}
+.formdiv{
+	text-align: center;
+	margin-left: 50%;
+	padding-left: 50%;
+}
+
+.controlLabel{
+	width: 60px;
+	height: 35px;
+	line-height: 35px;
+}
+
+.form-horizontal .control-label{
+	text-align: center;
+	width: 120px;
+}
+
+
+.modalbody{
+	margin-top:50px;
+	margin-bottom: 30px;
+}
+
+.confirm{
+
+	margin-bottom: 20px;
+	margin-top:30px;
+	margin-right: 80px;
+}
+.confirm input{
+	
+	width: 100px;
+	margin-left:70px;
+	height: 30px;
+}
+
+/* .modalContent2{
+	width: 70%;
+	 margin-top: 200px;
+	 margin-left: 15%;	
+	background-color:red;
+} */
+
+.confirm2{
+	
+	margin-bottom: 20px;
+	margin-top:30px;
+}
+.confirm2 button{
+	
+	width: 100px;
+	height: 30px;
+}

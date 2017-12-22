@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.cont{
+	width:80%;
+	text-align:center;
+	padding-left: 20%;
+	padding-top: 2%;
+	min-height:78%;	
+}
+.conttwo{
+	float: right;
+	margin-bottom: 30px;
+	
+}
+.aright{
+	margin-right: 30px;
+	margin-top: 8px;
+}
+
+.inputsearch{
+	border:1px solid;
+	border-radius:10px;	
+	width:250px;
+	height: 30px;
+}
+.inputsearch2{
+	background-color: #8080ff;
+	border:0px solid;
+	border-radius:25px;
+	height:30px;
+	width:50px;
+	color: #FFF;
+}
