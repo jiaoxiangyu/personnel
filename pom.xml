@@ -229,7 +229,7 @@
 	
 	
 	<build>
-		<finalName>ROOT</finalName>
+		<finalName>personnel</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
