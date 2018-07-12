@@ -2,9 +2,7 @@
 
 **技术栈：**
 
-SpringMVC + Hibernate 、MySQL
-百度echarts画图插件  
-POI导入导出excel
+SpringMVC + Hibernate 、MySQL、百度echarts画图插件、POI导入导出excel
 
 **主要功能：**
 
